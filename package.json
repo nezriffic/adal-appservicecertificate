@@ -16,10 +16,10 @@
     "test": "eslint ."
   },
   "engines": {
-    "node": "~4.4.1"
+    "node": "^6.11.2"
   },
   "config": {
-    "edgepackageversion": "5.9.2",
+    "edgepackageversion": "7.10.1",
     "failifnugetfails": "0"
   },
   "dependencies": {
